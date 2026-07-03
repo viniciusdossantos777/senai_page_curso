@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Open sans';
+    src: url(../Componentes/OpenSans-Italic-VariableFont_wdth\,wght.ttf);
+}
+
+@font-face {
+        font-family: 'poppinsmedium';
+        src: url('../Componentes/Fonts/poppins-medium-webfont.woff2') format('woff2'),
+            url('../Componentes/Fonts/poppins-medium-webfont.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;
+}
+
+
+@font-face {
+        font-family: 'poppinslight';
+        src: url('../Componentes/Fonts/poppins-light-webfont.woff2') format('woff2'),
+            url('../Componentes/Fonts/poppins-light-webfont.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;
+}
