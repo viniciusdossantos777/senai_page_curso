@@ -1,5 +1,5 @@
 body{
-    background-image: url(../Imagem/bg-desktop-light.jpg);
+    background-image: url(./image/bg-desktop-light.jpg);
     display: flex;
     flex-direction: column;
     text-align: center;
